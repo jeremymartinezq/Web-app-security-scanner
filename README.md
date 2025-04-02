@@ -18,8 +18,8 @@ A powerful, modern web application security scanner capable of detecting vulnera
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cybersec-scan.git
-cd cybersec-scan
+git clone https://github.com/jeremymartinezq/Web-app-security-scanner.git
+cd Web-app-security-scanner
 
 # Create a virtual environment
 python -m venv venv
