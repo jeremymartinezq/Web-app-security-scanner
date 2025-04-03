@@ -6,7 +6,6 @@
 A powerful, modern web application security scanner capable of detecting vulnerabilities according to the OWASP Top 10. Built with a cyberpunk aesthetic and powerful scanning capabilities.
 
 ## Design
-![Screenshot 2025-04-02 020302](https://github.com/user-attachments/assets/1389c6f4-1b84-41f8-9b4b-119db6f2f694)
 ![Screenshot 2025-04-02 020453](https://github.com/user-attachments/assets/c0a7bcdb-a91d-4656-a327-605ddce915f5)
 
 ## 🔐 Features
